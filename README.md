@@ -1,5 +1,8 @@
 ## Hi there 👋
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mouadh3/Mouadh3/output/github-snake-dark.svg">
+  <img alt="snake animation" src="https://raw.githubusercontent.com/Mouadh3/Mouadh3/output/github-snake.svg">
+</picture>
 <!--
 **Mouadh3/Mouadh3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
