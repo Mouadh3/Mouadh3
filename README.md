@@ -10,7 +10,7 @@
 
 ###
 
-<h4 data-importer="text" align="left">I build cross-platform mobile apps with **Flutter & Dart**<br>-  Currently learning: **Spring Boot** and studying **AI Engineering** (3/5)<br>-  Goal: build a full **Spring Boot + Flutter + AI** app<br>- How to reach me<br>   mouadhlachalin@gmail.com</h4>
+<h4 data-importer="text" align="left">I build cross-platform mobile apps with **Flutter & Dart**<br>-  Currently learning: **Spring Boot** and studying **AI Engineering** (3/5)<br>-  Goal: build a full **Spring Boot + Flutter + AI** app<br>- How to reach me<br>   mouadhlachal24@gmail.com</h4>
 
 ###
 
